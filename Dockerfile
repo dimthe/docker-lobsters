@@ -2,7 +2,7 @@
 #
 # VERSION latest
 
-FROM ruby:2.3-alpine
+FROM ruby:2.3-alpine3.7
 
 # Setting this to true will retain linux
 # build tools and dev packages.
